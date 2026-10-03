@@ -4,3 +4,4 @@ mer
 hej
 tack
 tack själv
+vad
