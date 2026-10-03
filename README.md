@@ -6,3 +6,4 @@ tack
 tack själv
 vad
 heter
+du
