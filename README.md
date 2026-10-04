@@ -29,3 +29,4 @@ har
 badat.
 men
 varför
+blev
