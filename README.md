@@ -43,5 +43,6 @@ den
 det?
 Han
 gillar
-målarfärg
+målarfärg,
 badar
+i
