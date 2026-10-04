@@ -44,3 +44,4 @@ det?
 Han
 gillar
 målarfärg
+badar
