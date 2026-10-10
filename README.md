@@ -46,3 +46,4 @@ gillar
 målarfärg,
 badar
 i
+olika
